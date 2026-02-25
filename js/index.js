@@ -1,0 +1,3 @@
+/* la imagen y este documente js espara 
+poder subir la carpeta js y  img
+*/
